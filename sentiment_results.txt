@@ -1,0 +1,14 @@
+Input: hi | Sentiment: Neutral
+Input: sad | Sentiment: Negative
+Input: happy | Sentiment: Positive
+Input: cry | Sentiment: Neutral
+Input: crying | Sentiment: Negative
+Input: cry | Sentiment: Neutral
+Input: ill | Sentiment: Negative
+Input: i love this internship opportunity | Sentiment: Positive
+Input: i am crying | Sentiment: Negative
+Input: i am going to school | Sentiment: Neutral
+Input: i am not ready to go to school | Sentiment: Negative
+Input: i am ready to go to school | Sentiment: Positive
+Input: hi | Sentiment: Neutral
+Input: quit | Sentiment: Neutral

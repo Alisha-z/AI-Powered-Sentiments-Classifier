@@ -1,0 +1,11 @@
+hi => Negative
+i am fine => Neutral
+how are you doing? => Neutral
+i am doing my project => Negative
+i am not doing my project => Neutral
+i am doing  project => Negative
+i am doing homework => Negative
+quit => Negative
+hi => Negative
+hi => Negative
+hello => Negative
